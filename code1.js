@@ -58,7 +58,7 @@ for(var i = 0, k = 0, l = gdjs.FinCode.GDNewSprite3Objects1.length;i<l;++i) {
 gdjs.FinCode.GDNewSprite3Objects1.length = k;}if ( gdjs.FinCode.condition0IsTrue_0.val ) {
 {
 {gdjs.FinCode.conditionTrue_1 = gdjs.FinCode.condition1IsTrue_0;
-gdjs.FinCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9869196);
+gdjs.FinCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9872028);
 }
 }}
 if (gdjs.FinCode.condition1IsTrue_0.val) {
@@ -94,7 +94,7 @@ gdjs.FinCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased(
 }if ( gdjs.FinCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FinCode.conditionTrue_1 = gdjs.FinCode.condition2IsTrue_0;
-gdjs.FinCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9830940);
+gdjs.FinCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11609044);
 }
 }}
 }
@@ -138,7 +138,7 @@ for(var i = 0, k = 0, l = gdjs.FinCode.GDNewSprite3Objects1.length;i<l;++i) {
 gdjs.FinCode.GDNewSprite3Objects1.length = k;}if ( gdjs.FinCode.condition1IsTrue_0.val ) {
 {
 {gdjs.FinCode.conditionTrue_1 = gdjs.FinCode.condition2IsTrue_0;
-gdjs.FinCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(9864668);
+gdjs.FinCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11610348);
 }
 }}
 }
