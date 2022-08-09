@@ -1,0 +1,12 @@
+{
+  "name": "Juego",
+  "short_name": "Juego",
+  "id": "com.example.gamename",
+  "description": "Juego hecho por Tamara para la clase de creación de videojuegos",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
